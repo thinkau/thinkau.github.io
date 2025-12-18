@@ -1,3 +1,3 @@
 # Home
 [Click here](/readme)
-<p>@thinkau</p>
+<p>@ {{ site.github.owner_name }}</p>
