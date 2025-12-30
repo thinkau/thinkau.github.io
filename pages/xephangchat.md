@@ -10,36 +10,35 @@
   <tbody>
     <tr>
       <td style="background-color: #ff4444; color: white; text-align: center; font-weight: bold;">S</td>
-      <td style="background-color: #ff4444; color: white;">
+      <td>
         🏆 <strong>Siêu Việt</strong><br>
         Mức cao nhất, hiệu suất vượt trội, hiếm có.
       </td>
     </tr>
     <tr>
       <td style="background-color: #ff8844; color: white; text-align: center; font-weight: bold;">A</td>
-      <td style="background-color: #ff8844; color: white;">
-        <img src="https://favicon.vemetric.com/amiunique.org?size=48?format=png" width="48" style="vertical-align: middle;"> 
-        <strong> Telegram</strong>
-        : Hiệu suất cao, đáng tin cậy và mạnh mẽ.<br>
+      <td>
+        <img src="https://favicon.vemetric.com/telegram.org?size=48?format=png" width="48" style="vertical-align: middle;"> 
+        <strong> Telegram</strong>: Bảo mật vừa phải, lưu tập tin dung lượng lớn, dễ dàng đồng bộ giữa các thiết bị, chống kiểm duyệt (30/12/2025).<br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #ffbb33; color: white; text-align: center; font-weight: bold;">B</td>
-      <td style="background-color: #ffbb33; color: white;">
+      <td>
         ✅ <strong>Tốt</strong><br>
         Đạt yêu cầu, ổn định và hữu ích.
       </td>
     </tr>
     <tr>
       <td style="background-color: #99cc00; color: white; text-align: center; font-weight: bold;">C</td>
-      <td style="background-color: #99cc00; color: white;">
+      <td>
         📈 <strong>Trung Bình</strong><br>
         Có thể sử dụng, cần cải thiện thêm.
       </td>
     </tr>
     <tr>
       <td style="background-color: #33b5e5; color: white; text-align: center; font-weight: bold;">D</td>
-      <td style="background-color: #33b5e5; color: white;">
+      <td>
         ⚠️ <strong>Thấp</strong><br>
         Hiệu suất hạn chế, nên tránh nếu có lựa chọn tốt hơn.
       </td>
