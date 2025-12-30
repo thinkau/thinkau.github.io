@@ -40,7 +40,7 @@ Bảng xếp hạng các ứng dụng nhắn tin (chat) mà tôi đã sử dụn
     <tr>
       <td style="background-color: #33b5e5; color: white; text-align: center; font-weight: bold;">D</td>
       <td>
-        <img src="https://favicon.vemetric.com/chat.zalo.me?size=48?format=png" width="48" style="vertical-align: middle;"> 
+        <img src="assets/bl/bl_app_zl_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Zalo</strong>: Bảo mật kém, Zalo có quyền đọc & chuyển giao tin nhắn, không đăng nhập cùng lúc nhiều thiết bị, được nhà nước Việt Nam hậu thuẫn. Lãnh đạo bởi VNG và các công ty Trung Quốc (30/12/2025).<br>
       </td>
     </tr>
